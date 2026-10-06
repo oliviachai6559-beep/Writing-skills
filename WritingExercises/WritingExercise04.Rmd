@@ -26,17 +26,18 @@ After each step of your editing process, use the "commit" process to save your c
 
 Introduction
 
-In this article, we will examine three microbes that play important roles in industrial biotechnology. 
+ 
 Humans have an epic relationship with microbes. 
 From birth, we are colonized by microbes, and over the course of our lives, we associate with microbes (as part of our microbiome and in the external environment) that have profound impacts on our health and well-being. 
 This includes positive effects (microbes that promote immune system development, aid in digestion, protect against incoming pathogens), to negative ones (microbes involved in food spoilage, and human pathogens that cause diseases that range from mild colds and self-limiting infections to life-threatening illnesses). 
-In more recent years, however, microbes have been intentionally exploited by humans, beginning from the early domestication of certain species to aid in food fermentation, to the current day, where cutting-edge technologies harness the power of microbes for industrial biotechnology. 
+In more recent years, however, microbes have been intentionally exploited by humans, beginning from the early domestication of certain species to aid in food fermentation, to the current day, where cutting-edge technologies harness the power of microbes for industrial biotechnology. In this article, we will examine three microbes that play important roles in industrial biotechnology.
 
 
 Corynebacterium glutamicum
 
+Clostridia are generally obligate anaerobes
 Corynebacterium glutamicum (C.g.) is used for production of amino acids (AAs) and other small molecules by industrial fermentation (IF). 
-Other corynebacterial species have been also used for IF, including the use of C. acetylobutylicum for production of solvents via ABE fermentation. Clostridia are generally obligate anaerobes and thus, these IFs must be carried out under anoxic (AnO) conditions.
+Other corynebacterial species have been also used for IF, including the use of C. acetylobutylicum for production of solvents via ABE fermentation.  and thus, these IFs must be carried out under anoxic (AnO) conditions.
 Characterisation of the central metabolic pathways and optimizing the growth and titer of the desired products is therefore key to the use of C.g. in various IFs. 
 Deleting or overexpressing genes involved in these pathways, or engaging in rational design of the growth medium used for IF, or otherwise optimising growth conditions for the IF, are all potential strategies that could be used to improve the titre of known C.g. products, but also to expand the suite of products produced by C.g. by IF. 
 However, there are notable constraints on such strategies: for example, cost optimization of the IF growth medium, or consumer acceptance of GMO products. 
